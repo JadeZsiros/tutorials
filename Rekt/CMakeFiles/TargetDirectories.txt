@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/cmaketut/CMakeFiles/Rekt.dir
+C:/Users/Admin/Desktop/cmaketut/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/cmaketut/CMakeFiles/ZERO_CHECK.dir
